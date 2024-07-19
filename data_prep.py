@@ -8,3 +8,6 @@ df = pd.DataFrame({"A": [1,2,3], "B": [4,5,6]})
 
 df2 = pd.DataFrame({"C": [1,2,3,4], "D": [4,5,6,4]})
 
+# New Feature
+
+df3 = pd.DataFrame({"E": [1,2,3,4], "F": [4,5,6,4]})
